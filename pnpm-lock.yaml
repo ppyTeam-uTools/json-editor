@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@ttionya/prettier-config': ^1.1.1
+
+devDependencies:
+  '@ttionya/prettier-config': 1.1.1
+
+packages:
+
+  /@ttionya/prettier-config/1.1.1:
+    resolution: {integrity: sha512-mc1uzjPDY793zHvmJBsdnSJ2gZpsdx+IcuEIIajFNnIRlEKENPfkegCWQOLqMqqSJjwYWPxT2pMDIyK5W5k2Kw==}
+    dependencies:
+      prettier: 2.7.1
+    dev: true
+
+  /prettier/2.7.1:
+    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: true
